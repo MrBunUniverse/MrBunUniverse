@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mr Bun
 
-<!--
-**MrBunUniverse/MrBunUniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent software developer building and maintaining open-source desktop applications, developer tools, and practical utilities.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [SJ-SlimeVR-Server-Custom](https://github.com/MrBunUniverse/SJ-SlimeVR-Server-Custom)
+
+A macOS-focused SlimeVR desktop stack for open-source full-body tracking, with an Electron client, tracker workflows, Quest/VRChat/SteamVR streaming, and ongoing interface and reliability work.
+
+### [SquezeBar](https://github.com/MrBunUniverse/SquezeBar)
+
+A lightweight macOS menu bar utility for fast file compression and management.
+
+## What I care about
+
+- Useful, understandable desktop software
+- Reliable integrations between hardware, systems, and applications
+- Efficient interfaces with thoughtful accessibility
+- Sustainable maintenance, testing, and release workflows
