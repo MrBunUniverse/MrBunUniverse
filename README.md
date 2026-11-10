@@ -1,20 +1,22 @@
-# Hi, I'm Mr Bun
+# Hey, I'm Mr Bun 🐇
 
-I'm an independent software developer building and maintaining open-source desktop applications, developer tools, and practical utilities.
+I spend a lot of time in VR, mostly VRChat, usually with trackers strapped to my legs. I'm on a Mac, and the software never quite fit my setup, so I started changing it. That got out of hand, and now I build desktop apps for fun.
 
-## Selected projects
+## What I'm working on
 
-### [SJ-SlimeVR-Server-Custom](https://github.com/MrBunUniverse/SJ-SlimeVR-Server-Custom)
+**[Bun Tracker](https://github.com/MrBunUniverse/bun-tracker)**
+An unofficial, SlimeVR-compatible full-body tracking server and desktop app. Redesigned app, drift compensation so trackers stay put longer, ESP32 USB dongle support with wireless tracker updates, and some VRChat chatbox and Quest tools. Early work in progress, tested on macOS only. Not affiliated with SlimeVR.
 
-A macOS-focused SlimeVR desktop stack for open-source full-body tracking, with an Electron client, tracker workflows, Quest/VRChat/SteamVR streaming, and ongoing interface and reliability work.
+**[SqueezeBar](https://github.com/MrBunUniverse/SqueezeBar)**
+Make photos, videos, audio and PDFs smaller by just dropping them in. Lives in your menu bar or system tray. Private, free, and everything stays on your device.
 
-### [SquezeBar](https://github.com/MrBunUniverse/SquezeBar)
+## Things I care about
 
-A lightweight macOS menu bar utility for fast file compression and management.
+- Apps you can figure out without reading a manual.
+- Hardware and software that actually talk to each other. Harder than it sounds.
+- Interfaces that are quick, light, and usable by everyone.
+- Code I can still maintain six months from now, which means tests.
 
-## What I care about
+## Say hi
 
-- Useful, understandable desktop software
-- Reliable integrations between hardware, systems, and applications
-- Efficient interfaces with thoughtful accessibility
-- Sustainable maintenance, testing, and release workflows
+Discord: [`jamevm`](https://discord.com/users/390812634481688576)
