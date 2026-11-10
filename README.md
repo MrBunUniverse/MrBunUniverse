@@ -1,4 +1,4 @@
-# Hey, I'm Mr Bun 🐇
+# Hey, I'm Mr Bun
 
 I spend a lot of time in VR, mostly VRChat, usually with trackers strapped to my legs. I'm on a Mac, and the software never quite fit my setup, so I started changing it. That got out of hand, and now I build desktop apps for fun.
 
