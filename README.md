@@ -1,7 +1,6 @@
 # Hey, I'm Mr Bun
 
-I spend a lot of time in VR, mostly VRChat, usually with trackers strapped to my legs. I'm on a Mac, and the software never quite fit my setup, so I started changing it. That got a bit out of hand.
-
+I spend some of time in VR, mostly VRChat, usually with trackers strapped to my legs. I'm on a Mac, and the software never quite fit my setup, so I started moddyfying it
 ## What I'm working on
 
 **[Bun Tracker](https://github.com/MrBunUniverse/bun-tracker)**
@@ -12,9 +11,9 @@ Make photos, videos, audio and PDFs smaller by just dropping them in. Lives in y
 
 ## About me
 
-- I play VR.
+- I play VR...sometime.
 - I make test and experimental apps, mostly to see if an idea works.
-- Hobbyist with ESP boards (ESP32 / ESP8266) and similar hardware. Still a beginner, still learning.
+- Learning Hobbyist.
 
 ## Say hi
 
